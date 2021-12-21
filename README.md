@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=shharyaaa&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sharanya+Sable's+GitHub+Stats&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=shharyaaa&count_private=true&title_color=0969da&icon_color=0969da&text_color=0C2233&custom_title=Sharanya+Sable's+GitHub+Stats&show_icons=true"
 />
 
 <img
